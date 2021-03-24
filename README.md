@@ -1,5 +1,6 @@
 # ghs-app
 GHS App developed for GHS by [ssmytech](https://ssmytech.com)
+
 Development began in Winter 2018 and is still being maintained today.
 
 A fresh repo was created on 04/24/2021 to publish publicly to GitHub, purging all visible API keys/secrets.
