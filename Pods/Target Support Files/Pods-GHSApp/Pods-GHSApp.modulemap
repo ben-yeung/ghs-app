@@ -1,0 +1,6 @@
+framework module Pods_GHSApp {
+  umbrella header "Pods-GHSApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
