@@ -1,5 +1,5 @@
 # ghs-app
-GHS App developed for GHS by [ssmytech](https://ssmytech.com)
+The GHS App was developed for Glendora High School by [ssmytech](https://ssmytech.com)
 
 Development began in Winter 2018 and is still being maintained today.
 
@@ -12,4 +12,6 @@ The GHS App is one of the best ways for students and parents to become more fami
 ## Inside the app
 The app is primarily Swift3/4 with some Objective-C to bridge headers for external APIs. GET requests pull data from Google Calendars and Google Sheets and this JSON is parsed/allocated into TableViews.
 
-Other APIs include Lottie, Firebase, Alamofire, and TwitterCore. These dependencies are managed by CocoaPods.
+Other APIs include Lottie, Firebase, Alamofire, and TwitterCore. 
+
+These dependencies are managed by CocoaPods.
