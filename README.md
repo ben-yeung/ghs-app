@@ -14,4 +14,4 @@ The app is primarily Swift3/4 with some Objective-C to bridge headers for extern
 
 Other APIs include Lottie, Firebase, Alamofire, and TwitterCore. 
 
-These dependencies are managed by CocoaPods.
+These packages are managed by CocoaPods.
