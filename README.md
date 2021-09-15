@@ -14,7 +14,9 @@ The GHS App was created to help students, parents, and teachers on a daily basis
 The GHS App is one of the best ways for students and parents to become more familiar with teachers, staff, and the campus itself. 
 
 ## Inside the app
-The app is primarily Swift3/4 with some Objective-C to bridge headers for external APIs. GET requests pull data from Google Calendars and Google Sheets and this JSON is parsed/allocated into TableViews.
+The app is primarily Swift4 with some Objective-C to bridge headers for external APIs. GET requests pull data from Google Calendars and Google Sheets and this JSON is parsed via AlamoFire and filtered into TableViews.
+
+Most resources are linked inside the app using SFSafariViewController webviews.
 
 Other APIs include Lottie, Firebase, Alamofire, and TwitterCore. 
 
